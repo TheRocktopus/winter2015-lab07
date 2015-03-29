@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE order SYSTEM "bonanza.dtd">
+
+<order type="eatin">
+	<customer>Matthew</customer>
+	<burger>
+		<patty type="beef" />
+		<!--<cheeses top="aged" bottom="aged" />-->
+                <topping type="lettuce"/>
+                <topping type="tomato"/>
+                <topping type="shrooms"/>
+                <topping type="bacon"/>
+                <topping type="chilies"/>
+                <topping type="avocado"/>
+                <topping type="egg"/>
+                <sauce type="mustard" />
+                <sauce type="mayo" />
+                <name>
+                    Da Ultimate
+                </name>
+        </burger>
+        <burger>
+		<patty type="bison" />
+		<cheeses top="brie" />
+		<topping type="chilies" />
+                <sauce type="fksauce" />
+                <instructions>
+                    Please add peanut butter
+                </instructions>
+                <name>
+                    Future Craving 3000
+                </name>
+        </burger>
+</order>

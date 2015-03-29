@@ -13,5 +13,11 @@ Jim wants a #8 for eat-in
         <topping type="shrooms"/>
         <sauce type="ketchup"/>
         <sauce type="mayo"/>
+		<instructions>
+			Wub wub wub.
+		</instructions>
     </burger>
+	<special>
+		Here's some special stuff!
+	</special>
 </order>
